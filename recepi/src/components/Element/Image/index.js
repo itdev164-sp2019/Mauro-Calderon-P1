@@ -1,0 +1,1 @@
+export {Pic,Hpic} from "./image"
